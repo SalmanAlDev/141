@@ -1,0 +1,3 @@
+Linux trash dir
+
+put your name in all the cpp files
